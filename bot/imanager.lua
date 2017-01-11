@@ -235,7 +235,7 @@ function create_config( )
     "Stats",
     "Whitelist",
     },
-    sudo_users = {160149610,133477619,240956524}, --Sudo users
+    sudo_users = {190895325}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[<b>iManager</b> - <i>Cli</i>
 		
